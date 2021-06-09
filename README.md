@@ -2,6 +2,12 @@
 ![VentureQ's github stats](https://github-readme-stats.vercel.app/api?username=VentureQ&theme=radical) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VentureQ&layout=compact&theme=radical)
 
+Contact me 📱
+
+🔌We chat:wq_wxvip
+
+📚CSDN:[system_Monkey](https://blog.csdn.net/qq_37283570)
+
 <!--
 **VentureQ/VentureQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 Contact me 📱
 
-🔌We chat:wq_wxvip
+🔌We chat:[wq_wxvip](https://github.com/VentureQ/VentureQ/blob/main/pic/wechat.png)
 
 📚CSDN:[system_Monkey](https://blog.csdn.net/qq_37283570)
 

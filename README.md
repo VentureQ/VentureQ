@@ -4,7 +4,7 @@
 
 Contact me 📱
 
-🔌We chat:[wq_wxvip](https://github.com/VentureQ/VentureQ/blob/main/pic/wechat.png)
+🔌mail:wqldd0607@163.com
 
 📚CSDN:[system_Monkey](https://blog.csdn.net/qq_37283570)
 
